@@ -1,0 +1,6 @@
+P07,Breer,11,12.2
+P05,Rose,7,15.4
+P04,Book,9,5.2
+P03,sugar,12,25.5
+P02,Apple,5,4.3
+P01,Miliket,10,2.5
